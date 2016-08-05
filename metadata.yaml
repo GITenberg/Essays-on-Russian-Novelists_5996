@@ -1,0 +1,28 @@
+_repo: Essays-on-Russian-Novelists_5996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phelps, William Lyon
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '1907'
+    url: http://www.gutenberg.org/2009/agents/1907
+    wikipedia: http://en.wikipedia.org/wiki/William_Lyon_Phelps
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- History and criticism'
+- GITenberg
+tableOfContents: Russian national character -- Gogol -- Turgenev -- Dostoevski --
+  Tolstoi -- Gorki -- Chekhov -- Artsybashev -- Andreev -- Kuprin's picture of garrison
+  life -- List of publications.
+title: Essays on Russian Novelists
+url: http://www.gutenberg.org/ebooks/5996
